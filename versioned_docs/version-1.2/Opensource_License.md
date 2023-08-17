@@ -20,7 +20,7 @@ The Rahat Open Source Project uses mixed licensing.
 
 
 
-1. [Rahat](https://github.com/esatya/rahat): API service for all the other web-apps
+1. [Rahat](https://github.com/esatya/rahat-backend): API service for all the other web-apps
 2. [Rahat-agency](https://github.com/esatya/rahat-agency): Rahat agency app used by agencies to track and distribute aids
 3. [Rahat-mobilizer](https://github.com/esatya/rahat-mobilizer): Rahat mobilizer app to onboard beneficiaries
 4. [Rahat-vendor](https://github.com/esatya/rahat-vendor): Rahat vendor app to serve beneficiary for aid distribution
