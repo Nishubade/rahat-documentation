@@ -6,4 +6,4 @@ id: tech_stack
 
 This a list of all the technology services used to build and run Rahat projects. 
 
-![Rahat Technology Stack](https://assets.rumsan.com/esatya/rahat-rahat-tech-stack-.drawio.png)
+![Rahat Technology Stack](https://assets.rumsan.com/esatya/rahat-tech-stack-.drawio.png))
